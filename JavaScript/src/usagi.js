@@ -2,7 +2,7 @@
 var month = 0;
 var beforenumber = 0;
 
-while (month < 12){
+while (month < 24){
   var b = number;
   number = number+beforenumber;
   beforenumber = b;
